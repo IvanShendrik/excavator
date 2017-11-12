@@ -1,0 +1,10 @@
+.cstmd{
+	float: none;
+	text-align: center;
+}
+
+.navbar-nav li{
+
+	display: inline-block;
+	font: none;
+}
